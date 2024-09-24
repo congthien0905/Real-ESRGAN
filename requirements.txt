@@ -1,0 +1,12 @@
+facexlib>=0.2.5
+gfpgan>=1.3.5
+git+https://github.com/congthien0905/camxuyen.git
+numpy
+opencv-python
+Pillow
+torch>=1.7
+torchvision
+tqdm
+flask-cors==3.0.10
+flask
+python-dotenv==0.21.0
